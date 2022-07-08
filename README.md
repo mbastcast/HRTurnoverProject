@@ -26,4 +26,4 @@ Any business, must have an HR database. Business operations that were in place p
 The objective of this part of the project is to explain, illustrate, and evaluate supervised machine learning techniques for predicting employee turnover inside an organization. For this several models are carried out. The effectiveness of each of these supervised machine learning algorithms for forecasting employee turnover is presented and established utilizing statistical methods. 
 
 
-[Full Script here](https://github.com/mbastcast/peopleanalytics/blob/main/FINAL%20People%20Analytics_Satisfaction.ipynb)
+[Full Script here](https://github.com/mbastcast/HRTurnoverProject/blob/main/FINAL%20People%20Analytics_Satisfaction.ipynb)
