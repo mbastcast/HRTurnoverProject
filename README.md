@@ -18,7 +18,7 @@ The Turnover Dashboard provides a snapshot of who has left the company. This all
 
 Any business, must have an HR database. Business operations that were in place prior to the database system's adoption cost the company a lot of money. This project proposed MySQL will be utilized as the DBMS for HRIS usage because it is web-based, runs on a server, and enables both interests to coexist, whether they are accessed via localhost or the internet. Another benefit is that the human resource database may now be viewed anywhere, at any time, provided the user has internet access and a device that can visit websites through browsers. But of course the biggest benefit is being able to use queries to easily extract information for further analyisis.
 
-[This are examples of useful queries to understand turnover](https://github.com/mbastcast/peopleanalytics/blob/main/peopleanalytics.sql)
+[This are examples of useful queries to understand turnover](https://github.com/mbastcast/HRTurnoverProject/blob/main/peopleanalytics.sql)
 
 ### Machine Learning Turnonver Predictor
 
