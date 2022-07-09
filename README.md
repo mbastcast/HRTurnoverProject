@@ -1,6 +1,6 @@
 # Human Resources Turnover Analysis
 
-One of the biggest issues a company can face is employee turnover, this is due to the fact that it is difficult to predict and frequently results in observable gaps in the firm's trained workforce.
+One of the biggest issues a company can face is employee turnover, this is due to the fact that it is difficult to predict and frequently results in observable gaps in the company's trained workforce.
 
 Businesses understand that when employees departs unexpectedly, the timely supply of their services may be jeopardized, total company productivity may drastically diminish, and as a result, client loyalty may suffer. Organizations must therefore develop appropriate acquisition, retention, and recruitment strategies, as well as practical preventative and mitigating measures, while also comprehending the underlying, primary causes of employee turnover. This project attempts to works on the latter.
 
