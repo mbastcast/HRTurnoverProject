@@ -11,7 +11,7 @@ With the usage of Data Analytics tools the following solutions were provided:
 
 The Turnover Dashboard provides a snapshot of who has left the company. This allows HR and top management to see the aggregated and current numbers in an instant. By understanding the characteristics of leavers the company can also make discuss which causes of departure are inevitable due to the nature of the job or which ones could have proactive actions to reduce turnover rates.
 
-<a href="https://public.tableau.com/shared/S5CB39RDN?:display_count=n&:origin=viz_share_link" target="_blank">Link for Tableau Dashboard</a>
+<a href="https://public.tableau.com/shared/BBSWP9B2T?:display_count=n&:origin=viz_share_link" target="_blank">Link for Tableau Dashboard</a>
 
 ### MYSQL Useful Queries and Stored procedures
 
